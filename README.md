@@ -9,6 +9,5 @@
 </p>
   <hr>
   
-  <img align="right" src="https://res.cloudinary.com/dbgreenshop/image/upload/v1659432765/crow_affqe3.png">
-<h3 align="justify">
+ 
  
